@@ -22,6 +22,7 @@ O projeto utiliza um banco de dados Oracle, e a conexão é feita por meio do ar
 # Exemplo de JSON para cadastro de brinquedos no sistema:
 
 ...
+
 {
   "nome": "Casa da Barbie",
   "tipo": "Casa de boneca",
