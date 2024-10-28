@@ -1,15 +1,15 @@
 # Projeto Cadastro de Brinquedos 
 
-# Integrantes
+## Integrantes
 Robson Apparecido dos Santos e Talyta Botelho Perrotti
 
-# Funcionalidades
+## Funcionalidades
 - Criar (POST): Permite o cadastro de brinquedos no sistema;
 - Ler (GET): Realiza consultas de brinquedos já cadastrados;
 - Atualizar (PUT): Realizar uma atualização no sistema;
 - Deletar (DELETE): Deletar um brinquedo do sistema;
 
-# Configuração do Banco de Dados
+## Configuração do Banco de Dados
 O projeto utiliza um banco de dados Oracle, e a conexão é feita por meio do arquivo application.properties do Spring Boot. As seguintes informações são armazenadas na tabela de brinquedos (TDS_TB_BRINQUEDOS):
 
 - [X] Id: Identificação única do brinquedo.
@@ -19,7 +19,7 @@ O projeto utiliza um banco de dados Oracle, e a conexão é feita por meio do ar
 - [X] Tamanho: Dimensões do brinquedo em centimetros.
 - [X] Preço: Preço do brinquedo.
 
-# Exemplo de JSON para cadastro de brinquedos no sistema:
+## Exemplo de JSON para cadastro de brinquedos no sistema:
 
 ```
 
@@ -33,7 +33,7 @@ O projeto utiliza um banco de dados Oracle, e a conexão é feita por meio do ar
 
 ```
 
-# Prints do POSTMAN
+## Prints do POSTMAN
 
 ### Post
 ![Post](https://github.com/user-attachments/assets/2f43e345-5d90-4e38-af4b-c33f867ba7ce)
