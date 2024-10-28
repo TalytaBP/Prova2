@@ -33,3 +33,14 @@ O projeto utiliza um banco de dados Oracle, e a conexão é feita por meio do ar
 ...
 
 # Prints do POSTMAN
+
+### Post
+![Post](https://github.com/user-attachments/assets/2f43e345-5d90-4e38-af4b-c33f867ba7ce)
+
+### Get
+![Get](https://github.com/user-attachments/assets/5ee8aaa0-5ad8-4a76-b70e-d286ad48c5fc)
+
+### Put
+![PUT](https://github.com/user-attachments/assets/0f087268-1c8d-45d2-92f8-45de2d1c92de)
+
+
