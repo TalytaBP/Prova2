@@ -12,12 +12,12 @@ Deletar (DELETE): Deletar um brinquedo do sistema;
 # Configuração do Banco de Dados
 O projeto utiliza um banco de dados Oracle, e a conexão é feita por meio do arquivo application.properties do Spring Boot. As seguintes informações são armazenadas na tabela de brinquedos (TDS_TB_BRINQUEDOS):
 
-Id: Identificação única do brinquedo.
-Nome: Nome do brinquedo.
-Tipo: Tipo do brinquedo (Ex: Eletrônico, Educativo).
-Classificação: Faixa etária recomendada.
-Tamanho: Dimensões do brinquedo em centimetros.
-Preço: Preço do brinquedo.
+[X] Id: Identificação única do brinquedo.
+[X] Nome: Nome do brinquedo.
+[X] Tipo: Tipo do brinquedo (Ex: Eletrônico, Educativo).
+[X] Classificação: Faixa etária recomendada.
+[X] Tamanho: Dimensões do brinquedo em centimetros.
+[X] Preço: Preço do brinquedo.
 
 # Exemplo de JSON para cadastro de brinquedos no sistema:
 
