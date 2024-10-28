@@ -1,4 +1,4 @@
-# Projeto Loja de Brinquedos 
+# Projeto Cadastro de Brinquedos 
 
 # Integrantes
 Robson Apparecido dos Santos e Talyta Botelho Perrotti
